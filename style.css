@@ -1,0 +1,50 @@
+body{
+    background: black;
+    font-family: "Time's new roman";
+}
+.resume{
+    width: 900px;
+    margin: 20px auto;
+    background-color: white;
+    display: flex;
+}
+.left{
+    width:40%;
+    background-color: rgb(231, 227, 227);
+    padding:18px;
+}
+.left h3{
+     background-color: rgb(2, 2, 96);
+     color: white;
+     padding: 5px;
+}
+.right{
+    width: 60%;
+    padding: 20px;
+}
+.right h1{
+    padding:10px;
+    margin-top:0;
+}
+.right h3{
+    background-color: rgb(2, 2, 96);
+    color:white;
+    padding:5px;
+}
+ul{
+    padding-left: 20px;
+}
+a{
+    text-decoration:none;
+    color:darkblue;
+}
+.profile-pic{
+    width:190px;
+    height:190px;
+    border-radius: 50%;
+    display: block;
+    margin:0 auto 15px;
+}
+.align{
+    text-align: center;
+}
